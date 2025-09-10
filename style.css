@@ -123,7 +123,7 @@ body {
 
 @media (max-width: 1024px) {
   .header {
-    flex-direction: row;
+    flex-direction: ;
     padding: 1rem;
     margin: 20px;
   }
@@ -144,7 +144,7 @@ body {
 
 @media (max-width: 767px) {
   .header {
-    flex-direction: column;
+    /* flex-direction: ; */
     text-align: center;
     padding: 1rem;
     margin: 10px;
@@ -152,7 +152,7 @@ body {
 
   .header img {
     height: 40px;
-    margin: 5px 0;
+    margin: ;
   }
 
   .logo-box {
