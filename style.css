@@ -162,7 +162,7 @@ body {
   }
 
   .launching {
-    font-size: clamp(45px, 8vw, 40px);
+    font-size: clamp(42px, 8vw, 40px);
   }
 
   .description {
