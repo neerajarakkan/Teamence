@@ -123,7 +123,6 @@ body {
 
 @media (max-width: 1024px) {
   .header {
-    flex-direction: ;
     padding: 1rem;
     margin: 20px;
   }
@@ -145,13 +144,12 @@ body {
 @media (max-width: 767px) {
   .header {
     text-align: center;
-    padding: 0.6rem;
+    padding: 0.7rem;
     margin: 10px;
   }
 
   .header img {
     height: 40px;
-    margin: ;
   }
 
   .logo-box {
