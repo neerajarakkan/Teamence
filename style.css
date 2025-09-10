@@ -144,9 +144,8 @@ body {
 
 @media (max-width: 767px) {
   .header {
-    /* flex-direction: ; */
     text-align: center;
-    padding: 1rem;
+    padding: 0.6rem;
     margin: 10px;
   }
 
@@ -165,7 +164,7 @@ body {
   }
 
   .launching {
-    font-size: clamp(24px, 8vw, 40px);
+    font-size: clamp(48px, 8vw, 40px);
   }
 
   .description {
